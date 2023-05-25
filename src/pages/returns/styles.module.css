@@ -1,0 +1,8 @@
+.container {
+    height: 100vh;
+}
+
+.container li {
+    color: white;
+    font-size: 36px;
+}

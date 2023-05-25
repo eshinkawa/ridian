@@ -1,0 +1,51 @@
+.container {
+    margin-top: 20px;
+}
+
+.container h3 {
+    margin-top: 72px;
+    color: #fff;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table thead th {
+    padding: 10px;
+    border-bottom: 3px solid #ddd;
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+.table tbody td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+
+.TradeForm input[type="text"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 8px;
+}
+
+.TradeForm button {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.TradeForm button:hover {
+    background-color: #45a049;
+}
+
+.TradeForm button:focus {
+    outline: none;
+}
